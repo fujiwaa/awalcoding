@@ -1,0 +1,7 @@
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\bin\Debug\kalkulatorapp.exe.config
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\obj\Debug\kalkulatorapp.csprojResolveAssemblyReference.cache
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\bin\Debug\kalkulatorapp.XML
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\bin\Debug\kalkulatorapp.exe
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\bin\Debug\kalkulatorapp.pdb
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\obj\Debug\kalkulatorapp.exe
+D:\SEM 2\PEMOGRAMAN\kalkulatorapp\kalkulatorapp\obj\Debug\kalkulatorapp.pdb
